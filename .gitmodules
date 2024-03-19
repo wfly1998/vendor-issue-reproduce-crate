@@ -1,0 +1,3 @@
+[submodule "is_odd/jemalloc"]
+	path = is_odd/jemalloc
+	url = https://github.com/jemalloc/jemalloc.git
