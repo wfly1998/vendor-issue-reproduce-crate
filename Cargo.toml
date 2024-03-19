@@ -1,0 +1,3 @@
+[workspace]
+members = ["is_odd"]
+resolver = "2"
